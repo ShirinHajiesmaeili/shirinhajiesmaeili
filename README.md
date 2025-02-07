@@ -1,4 +1,4 @@
-<h1 align="center">Ahoy, digital explorers My name is Shirin!</h1>
+<h1 align="center">Ahoy, digital explorers my name is Shirin!</h1>
 <h3 align="center">Code & Concrete: Crafting Digital and Physical Spaces</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shirinhajiesmaeili&label=Profile%20views&color=0e75b6&style=flat" alt="shirinhajiesmaeili" /> </p>
