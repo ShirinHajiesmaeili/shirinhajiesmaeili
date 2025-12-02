@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React,JavaScript.TailwindCSS ....**
 
-- 📫 How to reach me **Esshirin486@gmail.com or https://www.linkedin.com/in/shirinhajiesmaeili/**
+- 📫 How to reach me **info@itin-tech.com or https://www.linkedin.com/in/shirinhajiesmaeili/**
 
 - ⚡ Fun fact **I found more freedom in IT than in architecture.☺️**
 
