@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shirinhajiesmaeili" alt="shirinhajiesmaeili" /></a> </p>
 
-- 🔭 I’m currently working on [Reuse Final Project](https://github.com/ShirinHajiesmaeili/Reuse)
+- 🔭 I’m currently working on [New Project](https://github.com/ShirinHajiesmaeili/Reuse)
 
 - 🌱 I’m currently learning **JavaScript,Python,Scratch,C,Algorithms,Memory,Data Structures,Flask,Django,SQL, Models, and Migrations,Scalability and Security ,Testing, CI/CD, AI**
 
